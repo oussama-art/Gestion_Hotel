@@ -1,6 +1,6 @@
 # Gestion Hotel
 
-![logo](static/logo.png)
+![logo](Hotel/Hotel/Resources/7faf09dc-b643-4912-ba83-f457cf1ece4d.jpg)
 
 This project is a hotel management system developed in C#. It facilitates the management of hotel operations including bookings, guest management, and billing through a user-friendly interface.
 
